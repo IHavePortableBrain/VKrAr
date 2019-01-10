@@ -1,3 +1,5 @@
+compile archiver code then determine path to archiver.exe in GUI process component
+
 # Archiver
 A C Program which has the capability to archive files, 
 unpack an archive file, display data about an archive file, 
